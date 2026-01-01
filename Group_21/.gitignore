@@ -1,0 +1,7 @@
+.env
+# Ignore uploaded profile images
+backend/backend/uploads/profile/*
+
+node_modules/
+
+frontend/node_modules 2/
